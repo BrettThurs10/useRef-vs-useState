@@ -4,6 +4,10 @@ This is a simple example to show how to capture the keystrokes of an input eleme
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Play with the app here:
+
+[https://brettthurs10.github.io/useRef-vs-useState/] (https://brettthurs10.github.io/useRef-vs-useState/)
+
 ## Available Scripts
 
 In the project directory, you can run:
