@@ -1,8 +1,12 @@
 # useRef vs useState
 
-This is a simple example to show how to capture the keystrokes of an input element to prevent the re-render of the component. You can also track the previous state by uncommenting line 41. Once you are running this app be sure to open the console via Inspect Element to see messages during events.
+This is a simple example to show how to capture the keystrokes of an input element to prevent the re-render of the component.Once you are running this app be sure to open the console via Inspect Element to see messages during events.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Follow along here:
+
+[https://brettthurston.com/prevent-re-renders-with-useref](https://brettthurston.com/prevent-re-renders-with-useref)
 
 ## Play with the app here:
 
