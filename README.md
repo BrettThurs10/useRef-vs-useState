@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Play with the app here:
 
-[https://brettthurs10.github.io/useRef-vs-useState/] (https://brettthurs10.github.io/useRef-vs-useState/)
+[https://brettthurs10.github.io/useRef-vs-useState/](https://brettthurs10.github.io/useRef-vs-useState/)
 
 ## Available Scripts
 
